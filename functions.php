@@ -6,7 +6,7 @@
  */
 
 
-
+/*
 //Remove Default Copyright
 if ( ! function_exists( 'remove_footer_info' ) ) :
 add_action('wp','remove_footer_info');
@@ -28,3 +28,4 @@ function add_footer_info()
 	<?php
 }
 endif;
+/*
